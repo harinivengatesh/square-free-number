@@ -11,7 +11,7 @@
             if(n%a[i]==0)
             val*=2;
         }
-   System.out.print(val-1);
+       System.out.print(val-1);
     }
-  }
+      }
   
